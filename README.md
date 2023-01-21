@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Tiago Fernandes - Rocketseat
+Feito com ♥ by Tiago Fernandes-Rocketseat
